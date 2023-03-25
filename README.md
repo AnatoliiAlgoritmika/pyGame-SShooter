@@ -1,2 +1,2 @@
-# pyGame-SShooter
-Python game for students 
+Игра на Pygame созданная учениками курса Python start 2 год в формате отчетного задания
+
